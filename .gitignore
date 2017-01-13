@@ -1,8 +1,8 @@
 .DS_Store
 node_modules
-compiler
-ssr
-shared.js
+#compiler
+#ssr
+#shared.js
 scratch
 !test/compiler
 !test/ssr
